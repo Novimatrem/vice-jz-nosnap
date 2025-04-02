@@ -1,6 +1,6 @@
-# vice-jz-nosnap v4
+# vice-jz-nosnap v5
 
-Required packages: sudo
+Required packages: sudo, curl, squashfs-tools
 
 Required tweaks: Your user must be in the sudoers file.
 
@@ -12,6 +12,8 @@ Required tweaks: Your user must be in the sudoers file.
 - v3 fixed drives by actually copying all required deps
 
 - v4 updated text to mention the required packages to install/tweak needed
+
+- v5 added mention of required packages for functionality
 
 
 # Usage: 

@@ -1,6 +1,6 @@
-# vice-jz-nosnap v4
+# vice-jz-nosnap v5
 
-# required packages: sudo
+# required packages: sudo, curl, squashfs-tools
 
 # required tweaks: Your user must be in the sudoers file.
 
@@ -8,6 +8,7 @@
 # v2 fixed sound by not running vice as root
 # v3 fixed drives by actually copying all required deps
 # v4 updated the top of this file to mention the required packages to install/stuff needed
+# v5 added mention of required packages for functionality
 
 # Usage: sudo bash ./vice-jz-nosnap.sh
 
