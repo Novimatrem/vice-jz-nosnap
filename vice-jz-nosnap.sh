@@ -1,6 +1,8 @@
-# vice-jz-nosnap v5
+# vice-jz-nosnap v6
 
 # required packages: sudo, curl, squashfs-tools
+
+# also required (may have to download using web browser and install from package file manually): libreadline7
 
 # required tweaks: Your user must be in the sudoers file.
 
@@ -9,6 +11,7 @@
 # v3 fixed drives by actually copying all required deps
 # v4 updated the top of this file to mention the required packages to install/stuff needed
 # v5 added mention of required packages for functionality
+# v6 mention that you may need to manually download and install libreadline7
 
 # Usage: sudo bash ./vice-jz-nosnap.sh
 
